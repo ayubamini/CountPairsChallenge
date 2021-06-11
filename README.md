@@ -1,0 +1,2 @@
+# CountPairsChallenge
+Challenge Series (HackerRank)
